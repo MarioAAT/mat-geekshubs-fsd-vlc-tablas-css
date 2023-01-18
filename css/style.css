@@ -1,7 +1,7 @@
 table{
     border: outset  8px;
-    border-collapse: collapse;
-    width: 40%;
+    /*border-collapse: collapse;
+    width: 40%;*/
 }
 
 tr{
