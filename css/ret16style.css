@@ -1,0 +1,39 @@
+.tabla{
+    margin: 20% 19%;
+    width: 60%;
+}
+
+tbody{
+    background-image: url(../assets/patitas.jpg);
+}
+
+table{
+    border: outset 5px;
+    width: 60%;
+    
+}
+
+th{
+    background-color: ;
+    color: ;
+}
+
+td{
+    border: outset 4px ;
+    background-color: ;
+    color: ;
+    text-align: center;
+}
+
+.titulo{
+    background-color: #AACB73;
+    color: rgb(197, 32, 73);
+}
+
+.head{
+    background-color: #FFD4D4;
+}
+
+.tamaño{
+    background-color: #FFFBAC;
+}
