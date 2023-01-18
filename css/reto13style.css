@@ -1,0 +1,38 @@
+div{
+    position: relative;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    
+}
+
+table{
+    border: inset 3px;
+    width: 90vw;
+}
+
+tr{
+    border: inset ;
+}
+
+th{
+    border: inset 3px;  
+    
+}
+
+.head{
+    background-color: lightgreen;
+}
+
+.c2{
+    background-color: aqua;
+}
+
+.c6{
+    background-color: hotpink;
+}
+
+.centro{
+    color: red;
+}
