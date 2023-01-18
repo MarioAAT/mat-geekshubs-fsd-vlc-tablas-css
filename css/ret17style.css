@@ -59,3 +59,63 @@ body{
     background-color: aliceblue;
 
 }
+
+#box1{
+    background-image: url(../assets/back_mantel.jpg);
+}
+
+#box2{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box22{
+    margin: 14px;
+    border: solid 1px;
+    height: 100px;
+    width: 100px;
+    background-image: url(../assets/back_mantel.jpg);
+    
+}
+
+img{
+    width: 130px;
+}
+
+#box4{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+
+.img2{
+    margin: 14px;
+    border: solid 1px;
+    height: 100px;
+    width: 100px;
+}
+
+#box6{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box66{
+    margin: 14px;
+    border: solid 1px;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.img6{
+    height: 100px;
+    width: 100px;
+}
+
+.img7{
+    margin-top: 35px;
+}
