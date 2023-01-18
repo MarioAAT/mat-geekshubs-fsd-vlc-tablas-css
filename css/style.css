@@ -9,7 +9,7 @@ tr{
 }
 
 th{
-    background-color: rgb(6, 167, 132);
+    background-color: rgb(3, 116, 91);
     border: solid;
     
 }
@@ -20,5 +20,5 @@ td{
 }
 
 .fila2{
-    background-color: blue;
+    background-color: rgb(17, 192, 163);
 }
