@@ -1,0 +1,69 @@
+body{
+    background-color: aqua;
+    margin: 0;
+}
+
+.container{
+    background-color: rebeccapurple;
+    height: 100vh;
+}
+
+.def{
+    height: 10vh;
+}
+
+/* contenedores principales */
+
+#navbar{
+    background-color: aqua;
+    
+}
+
+#main{
+    background-color: blue;
+    height: 80vh;
+    display: flex;
+}
+
+#footer{
+    background-color: chartreuse;
+    display: flex;
+    
+}
+
+/* contenedor main flex */
+
+#main-l{
+    background-color: cornflowerblue;
+    width: 20vw;
+}
+#main-r{
+    background-color: crimson;
+    width: 80vw;
+}
+
+/* contenedor footer flex */
+
+.footer-def{
+    width: 25vw;
+}
+
+#footer-1{
+    background-color: violet;
+    
+}
+
+#footer-2{
+    background-color: tomato;
+    
+}
+
+#footer-3{
+    background-color: springgreen;
+    
+}
+
+#footer-4{
+    background-color: sienna;
+    width: 25vw;
+}
